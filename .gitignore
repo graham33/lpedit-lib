@@ -29,3 +29,5 @@ deploy/*
 moc*
 rcc*
 uic*
+
+.direnv
